@@ -9,3 +9,22 @@ body{
 .betlinks{
     margin-right: 20px;
 }
+
+.textoinicio{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.textoinicio p {
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.imag{
+    width: 1349px;
+    height: 200px;
+}
+
+.piepag{
+    margin-top: 100px;
+}
